@@ -1,0 +1,24 @@
+/* ETIQUETAS / TAGS */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; Asegura que el body ocupe toda la altura de la ventana */
+    margin: 0;
+    background-color: black;
+}
+
+
+/* CLASES */
+.container {
+    width: 727px;
+    padding: 21px 89px 8px 89px; ;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    background-color: white;
+}
+
+.text-aligh-right {
+    text-align: right;
+}
